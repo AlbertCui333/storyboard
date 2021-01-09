@@ -16,6 +16,7 @@ npm install
 npm run dev
 
 # build for production with minification  在报错 stash 第二次修改 master修改东西
+#在这里stash修改着
 npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
