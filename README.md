@@ -15,7 +15,7 @@ npm install
 # serve with hot reload at localhost:8081
 npm run dev
 
-# build for production with minification  在报错 stash 第二次修改
+# build for production with minification  在报错 stash 第二次修改 master修改东西
 npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
